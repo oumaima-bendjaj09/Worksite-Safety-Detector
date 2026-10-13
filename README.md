@@ -1,6 +1,6 @@
 # Personal Protective Equipment (PPE) Detector
 
-**Author**:Oumaima Bendjaj
+**Author** : Oumaima Bendjaj
 
 Real-time **Personal Protective Equipment (PPE) detection** built with **YOLO11** and a **Streamlit** web interface. Upload an image or a video and the app detects whether workers are wearing their safety equipment (helmet, vest, gloves, mask, glasses, boots, ear protection).
 
@@ -8,7 +8,7 @@ Real-time **Personal Protective Equipment (PPE) detection** built with **YOLO11*
 
 | Upload an image | Detection results |
 |:---:|:---:|
-| ![Demo 1](demo/Demo1.JPG) | ![Demo 2](demo/Demo2.JPG) |
+| ![Demo 1](Demo1.JPG) | ![Demo 2](Demo2.JPG) |
 
 ## ✨ Features
 
