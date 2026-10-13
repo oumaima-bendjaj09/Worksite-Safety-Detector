@@ -4,11 +4,13 @@
 
 Real-time **Personal Protective Equipment (PPE) detection** built with **YOLO11** and a **Streamlit** web interface. Upload an image or a video and the app detects whether workers are wearing their safety equipment (helmet, vest, gloves, mask, glasses, boots, ear protection).
 
-## 🎬 Demo
-
-| Upload an image | Detection results |
-|:---:|:---:|
-| ![Demo 1](Demo1.JPG) | ![Demo 2](Demo2.JPG) |
+### 📸 Upload an image
+ 
+![Demo 1](Demo1.JPG)
+ 
+### Detection results
+ 
+![Demo 2](Demo2.JPG)
 
 ## ✨ Features
 
