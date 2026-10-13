@@ -1,4 +1,4 @@
-# Personal Protective Equipment (PPE) Detector
+# Personal Protective Equipment Detector PPED
 
 **Author** : Oumaima Bendjaj
 
